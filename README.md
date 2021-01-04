@@ -1,5 +1,5 @@
 # Disentanglement Transformer
-This repository is made to reproduce results from the paper.
+This repository is made to reproduce results from the paper [Disentangling semantics in language through VAEs and a certain architectural choice](https://arxiv.org/abs/2012.13031).
 
 A model can be trained by running ```disentangle_train.py``` with default arguments.
 The checkpoint for trained parameters used for our analysis is provided under the experiment name
